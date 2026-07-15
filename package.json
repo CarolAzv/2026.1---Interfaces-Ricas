@@ -11,7 +11,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@primeuix/themes": "^2.0.3",
+    "@primeuix/themes": "^3.0.0",
     "primeng": "^21.1.8"
   }
 }
